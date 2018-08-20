@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[个人博客搭建详解（Windows和Mac通用版）]]></title>
+    <url>%2F2018%2F08%2F16%2FAndroid%20%2FAndroid%E5%9F%BA%E7%A1%80%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>博客搭建</category>
+        <category>Next主题配置</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+        <tag>Next主题配置</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[hello hexo markdown]]></title>
     <url>%2F2018%2F08%2F16%2Fhello-hexo-markdown%2F</url>
     <content type="text"><![CDATA[我是短小精悍的文章摘要(๑•̀ㅂ•́)و✧紧接着文章摘要的正文内容]]></content>
