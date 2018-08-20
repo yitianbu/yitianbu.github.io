@@ -6,7 +6,6 @@
     <content type="text"><![CDATA[本周工作内容： 1.商详detail接口迁移工作提测&amp;bug fix。接口地址为：http://docs.vdian.net/pages/viewpage.action?pageId=62913286 2.评论详情页错误页面样式编写&amp;错误页数据请求逻辑编写（已提测） 3.商详两端显示同步。包括配送内容根据后端下发顺序进行展示&amp;评论入口处显示区域调整。]]></content>
       <categories>
         <category>Android</category>
-        <category>Next主题配置</category>
       </categories>
       <tags>
         <tag>博客搭建</tag>
